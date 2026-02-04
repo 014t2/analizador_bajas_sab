@@ -73,7 +73,7 @@ El proyecto tiene como finalidad:
 Este proyecto es un ejemplo de cómo convertir teoría de IA y Data Science en valor para el negocio. Se pueden añadir:
 
 - Nuevos modelos de predicción.
-- Integración con datos facticios.
+- Integración con datos reales de la API.
 - Notificaciones automáticas a comerciales o dashboards internos.
 
 ---
